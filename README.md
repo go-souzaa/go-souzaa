@@ -10,6 +10,7 @@ Estudante de Desenvolvimento de Sistemas na ETEC de Hortolândia.
 ## 🚀 Tecnologias e Ferramentas
 ### 📚 Em estudo no curso:
 - **Linguagens:** HTML, CSS, JavaScript, C#.
+- **Frameworks & Ecossistema:** .NET
 - **Banco de Dados:** MySQL
 - **Ferramentas:** Git, GitHub, VS Code e VS.
 
@@ -20,4 +21,5 @@ Estudante de Desenvolvimento de Sistemas na ETEC de Hortolândia.
 
 ## 📬 Vamos nos conectar!
 - **LinkedIn:** https://www.linkedin.com/in/go-souzaa/
-- **E-mail:** souzathefato@icloud.com
+- **E-mail:** gabriel.souza111@aluno.cps.sp.gov.br
+  
