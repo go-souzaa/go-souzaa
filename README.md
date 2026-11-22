@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel Souza 👋
 
-<!--
-**go-souzaa/go-souzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas na ETEC de Hortolândia.
 
-Here are some ideas to get you started:
+## 📌 Sobre mim
+- 🎓 Cursando Desenvolvimento de Sistemas na ETEC de Hortolândia.
+- 🎯 Focado em aprender desenvolvimento Front-end e Back-end .
+- 💡 Buscando oportunidades para aplicar meus conhecimentos em projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+### 📚 Em estudo no curso:
+- **Linguagens:** HTML, CSS, JavaScript, C#.
+- **Banco de Dados:** MySQL
+- **Ferramentas:** Git, GitHub, VS Code e VS.
+
+### 🌟 Áreas de Interesse:
+- Desenvolvimento Web
+- Inteligência Artificial
+- Segurança da Informação
+
+## 📬 Vamos nos conectar!
+- **LinkedIn:** https://www.linkedin.com/in/go-souzaa/
+- **E-mail:** souzathefato@icloud.com
